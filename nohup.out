@@ -1,0 +1,15 @@
+/Users/ramangupta/Documents/trelloBugFile/config.js:4
+    trelloAppKey: 'a6d7c94e4660fda9c91eed95b378e0bb'
+    ^^^^^^^^^^^^
+SyntaxError: Unexpected identifier
+    at Object.exports.runInThisContext (vm.js:78:16)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/ramangupta/Documents/trelloBugFile/trelloBugFile.js:2:14)
+    at Module._compile (module.js:571:32)
+Listening on port: 8080
